@@ -1,6 +1,6 @@
 # Python Level Up: Dockerize Python
 
-#### Find more at [cultivation.dev](https://cultivation.dev)
+#### Learn more at [cultivation.dev](https://cultivation.dev)
 
 ---
 

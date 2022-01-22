@@ -1,7 +1,7 @@
 ##### Base Setup #####
 
 # Apply python base image
-FROM python:3.8-buster as python-base
+FROM python:3.9.4-buster as python-base
 
 # Install extra libraries
 RUN apt-get update -yqq \
@@ -24,7 +24,7 @@ ENV PYTHONUNBUFFERED=1 \
     PIP_DISABLE_PIP_VERSION_CHECK=on \
     PIP_DEFAULT_TIMEOUT=100 \
     POETRY_HOME="/opt/poetry" \
-    POETRY_VERSION=1.1.8 \
+    POETRY_VERSION=1.1.12 \
     POETRY_VIRTUALENVS_IN_PROJECT=true \
     POETRY_NO_INTERACTION=1 \
     PYSETUP_PATH="/opt/pysetup" \

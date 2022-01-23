@@ -2,7 +2,7 @@
 name = "py-debian-poetry"
 version = "0.1.0"
 description = "Poetry specification for library dependencies"
-authors = ["Kyle Clark <github.com/devcultivation>"]
+authors = ["Kyle Clark <github.com/kyleaclark>"]
 
 [tool.poetry.dependencies]
 python = "~3.9"

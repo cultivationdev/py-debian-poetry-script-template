@@ -3,7 +3,7 @@
 - Python 3.9.4
 - Poetry dependency management  
 - Base Docker image: python:3.9.4-buster (debian)
-- Authored by Kyle Clark. Follow [@devcultivation](https://twitter.com/devcultivation) or visit [devcultivation.com](https://devcultivation.com) for more content.
+- Authored by Kyle Clark. Visit [devcultivation.com](https://devcultivation.com) for more content.
 
 ### Local Environment
 

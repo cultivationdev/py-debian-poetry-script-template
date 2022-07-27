@@ -1,7 +1,7 @@
 ##### Base Setup #####
 
 # Apply python base image
-FROM python:3.9.4-buster as python-base
+FROM python:3.10.5-bullseye as python-base
 
 # Install extra libraries
 RUN apt-get update -yqq \
